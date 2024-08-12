@@ -95,7 +95,7 @@ Los siguientes cursos son esenciales para aprender de frontend en cada categorí
 25. Curso de Modelado de Datos en MongoDB: [https://platzi.com/cursos/mongodb-modelado/](https://platzi.com/cursos/mongodb-modelado/)
 
 # CURSOS TERMINADOS
-~~1. Tutorial HTML (Inglés): [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)~~
-~~2. Curso Práctico de HTML: [https://platzi.com/cursos/html-practico/](https://platzi.com/cursos/html-practico/)~~
+1. ~~Tutorial HTML (Inglés): [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)~~
+2. ~~Curso Práctico de HTML: [https://platzi.com/cursos/html-practico/](https://platzi.com/cursos/html-practico/)~~
 
 *Las rutas contienen varios cursos que poco a poco se irán descubriendo.
