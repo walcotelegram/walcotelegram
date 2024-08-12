@@ -64,8 +64,6 @@ Los siguientes cursos son esenciales para aprender de frontend en cada categorí
 
 # RUTA A SEGUIR
 
-1. Tutorial HTML (Inglés): [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
-2. Curso Práctico de HTML: [https://platzi.com/cursos/html-practico/](https://platzi.com/cursos/html-practico/)
 3. Curso de ECMAScript: Historia y Versiones de JavaScript: [https://platzi.com/cursos/ecmascript-6/](https://platzi.com/cursos/ecmascript-6/)
 4. Curso de JavaScript: Manipulación del DOM: [https://platzi.com/cursos/document-object-model/](https://platzi.com/cursos/document-object-model/)
 5. Curso de Responsive Design: Maquetación Mobile First: [https://platzi.com/cursos/mobile-first/](https://platzi.com/cursos/mobile-first/)
@@ -95,5 +93,9 @@ Los siguientes cursos son esenciales para aprender de frontend en cada categorí
 25. Curso de Base de Datos NoSQL: [https://platzi.com/cursos/db-nosql/](https://platzi.com/cursos/db-nosql/)
 25. Curso de Introducción a MongoDB: [https://platzi.com/cursos/mongodb/](https://platzi.com/cursos/mongodb/)
 25. Curso de Modelado de Datos en MongoDB: [https://platzi.com/cursos/mongodb-modelado/](https://platzi.com/cursos/mongodb-modelado/)
+
+# CURSOS TERMINADOS
+~~1. Tutorial HTML (Inglés): [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)~~
+~~2. Curso Práctico de HTML: [https://platzi.com/cursos/html-practico/](https://platzi.com/cursos/html-practico/)~~
 
 *Las rutas contienen varios cursos que poco a poco se irán descubriendo.
