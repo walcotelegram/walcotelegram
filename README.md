@@ -8,11 +8,11 @@ Este documento mustra los cursos para aprendizaje.
 Los siguientes cursos son esenciales para aprender de frontend en cada categoría
 
 ### HTML
-- Tutorial HTML (Inglés): [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
+- ✅Tutorial HTML (Inglés): [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp) _terminado el Miércoles 7 de Agosto de 2024_
 
 ### CSS
 
-- Curso Práctico de HTML: [https://platzi.com/cursos/html-practico/](https://platzi.com/cursos/html-practico/)
+- ✅Curso Práctico de HTML: [https://platzi.com/cursos/html-practico/](https://platzi.com/cursos/html-practico/) _terminado el Lunes 12 de Agosto de 2024_
 - Curso de Responsive Design: Maquetación Mobile First: [https://platzi.com/cursos/mobile-first/](https://platzi.com/cursos/mobile-first/)
 - Curso de Diseño para Developers: [https://platzi.com/cursos/diseno-programadores/](https://platzi.com/cursos/diseno-programadores/)
 - Curso de CSS Grid Básico: [https://platzi.com/cursos/css-grid/](https://platzi.com/cursos/css-grid/)
